@@ -18,7 +18,7 @@ out: Output stream to write the message to.
 
 """
 
-out.write("Hello world of Python\n")
+out.write("Hello  world of Python\n")
 
 # Call the function with a file object
 
