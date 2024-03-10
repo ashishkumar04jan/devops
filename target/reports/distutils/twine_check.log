@@ -1,0 +1,8 @@
+Checking 
+/mnt/c/Users/sreek/git-demo/pyb/target/dist/pyb-1.0.dev0/dist/pyb-1.0.dev0-py3-n
+one-any.whl: [33mPASSED with warnings[0m
+[33mWARNING [0m `long_description_content_type` missing. defaulting to `text/x-rst`.   
+Checking 
+/mnt/c/Users/sreek/git-demo/pyb/target/dist/pyb-1.0.dev0/dist/pyb-1.0.dev0.tar.g
+z: [33mPASSED with warnings[0m
+[33mWARNING [0m `long_description_content_type` missing. defaulting to `text/x-rst`.   
