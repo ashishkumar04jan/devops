@@ -11,4 +11,5 @@ out: Print hello world of python
 """
 
 def helloworld(out):
+    """Function printing Hello world of Python"""
     out.write("Hello world of Python\n")
